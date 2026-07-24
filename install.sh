@@ -65,7 +65,7 @@ if [ "$UID" -eq "$ROOT_UID" ]; then
   # Set theme
   prompt -i "\nSetting ${THEME_NAME} as default...\n"
 
-  # Backup grub config
+  # Backup grub config with TIMESTAMP
   cp /etc/default/grub /etc/default/grub.$(date +%F-%H%M%S).bak
 
   # Modify grub config
