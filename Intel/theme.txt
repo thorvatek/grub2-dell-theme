@@ -19,7 +19,7 @@ terminal-border: "0"
   top = 30%
   width = 40%
   height = 40%
-  item_font = "Unifont Regular 16"
+  item_font = "DejaVu Sans Regular 16"
   item_color = "#cccccc"
   selected_item_color = "#ffffff"
   icon_width = 32
@@ -41,12 +41,12 @@ terminal-border: "0"
 
 # Show a countdown message using the label component
 + label {
-  top = 90%
+  top = 89%
   left = 32%
   width = 36%
   align = "center"
   id = "__timeout__"
   text = "Booting in %d seconds"
   color = "#ffff00"
-  font = "Unifont Regular 16"
+  font = "DejaVu Sans Regular 16"
 }
