@@ -1,6 +1,6 @@
-# Dell Vostro 15 GRUB2 Theme
+# Dell/Intel GRUB2 Theme
 
-This repository contains a GRUB2 theme installer for a Dell Vostro 15 system with an Intel Core i7 11th Gen CPU style theme.
+This repository contains a GRUB2 theme installer for a Dell system with an Intel Core i7 11th Gen CPU.
 
 ## Overview
 
