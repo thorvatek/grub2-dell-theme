@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Grub2 Theme for Dell Vostro 15 with Intel Core i7 11th Gen CPU
+# Grub2 Theme for Dell laptop with Intel Core i7 11th Gen CPU
 
 ROOT_UID=0
 THEME_DIR="/usr/share/grub/themes"
